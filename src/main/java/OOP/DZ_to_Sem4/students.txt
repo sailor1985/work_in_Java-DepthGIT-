@@ -1,0 +1,2 @@
+Student{name='Roman', grade=4.92, year=4, teacher=Teacher{name='Алла Владимировна'}}
+Student{name='Rurik', grade=4.5, year=6, teacher=Teacher{name='Ольга Симферопольна'}}

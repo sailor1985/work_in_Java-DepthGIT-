@@ -1,0 +1,6 @@
+
+Student{name='Rurik', grade=4.5, year=6, teacher=Teacher{name='Ольга Симферопольна', group=[]}}
+
+Student{name='Askold', grade=4.9, year=6, teacher=Teacher{name='Алла Владимировна', group=[]}}
+
+Student{name='Ahmat', grade=4.3, year=8, teacher=Teacher{name='Апты Алаутдинов', group=[]}}

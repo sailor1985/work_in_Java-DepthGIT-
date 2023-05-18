@@ -1,0 +1,3 @@
+Teacher{name='Алла Владимировна', group=[
+Student{name='Roman', grade=4.92, year=4, teacher=Teacher{name='Алла Владимировна', group=[]}}, 
+Student{name='Askold', grade=4.9, year=6, teacher=Teacher{name='Алла Владимировна', group=[]}}]}
