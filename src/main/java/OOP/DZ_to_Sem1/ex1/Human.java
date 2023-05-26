@@ -15,10 +15,6 @@ public class Human {
     public Integer getID() {
         return id;
     }
-    public String getName() {
-        return name;
-    }
-
     public String getSex() {
         return sex;
     }
